@@ -1,0 +1,14 @@
+C:\Users\fletc\workspace\csharp\ExtraVert\bin\Debug\net8.0\ExtraVert.exe
+C:\Users\fletc\workspace\csharp\ExtraVert\bin\Debug\net8.0\ExtraVert.deps.json
+C:\Users\fletc\workspace\csharp\ExtraVert\bin\Debug\net8.0\ExtraVert.runtimeconfig.json
+C:\Users\fletc\workspace\csharp\ExtraVert\bin\Debug\net8.0\ExtraVert.dll
+C:\Users\fletc\workspace\csharp\ExtraVert\bin\Debug\net8.0\ExtraVert.pdb
+C:\Users\fletc\workspace\csharp\ExtraVert\obj\Debug\net8.0\ExtraVert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fletc\workspace\csharp\ExtraVert\obj\Debug\net8.0\ExtraVert.AssemblyInfoInputs.cache
+C:\Users\fletc\workspace\csharp\ExtraVert\obj\Debug\net8.0\ExtraVert.AssemblyInfo.cs
+C:\Users\fletc\workspace\csharp\ExtraVert\obj\Debug\net8.0\ExtraVert.csproj.CoreCompileInputs.cache
+C:\Users\fletc\workspace\csharp\ExtraVert\obj\Debug\net8.0\ExtraVert.dll
+C:\Users\fletc\workspace\csharp\ExtraVert\obj\Debug\net8.0\refint\ExtraVert.dll
+C:\Users\fletc\workspace\csharp\ExtraVert\obj\Debug\net8.0\ExtraVert.pdb
+C:\Users\fletc\workspace\csharp\ExtraVert\obj\Debug\net8.0\ExtraVert.genruntimeconfig.cache
+C:\Users\fletc\workspace\csharp\ExtraVert\obj\Debug\net8.0\ref\ExtraVert.dll
